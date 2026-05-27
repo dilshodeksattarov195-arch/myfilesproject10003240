@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperppdate",
+        "uuid": 18973440,
+        "checksum": "r134gp"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
